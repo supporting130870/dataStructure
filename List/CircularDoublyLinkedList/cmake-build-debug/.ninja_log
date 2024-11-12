@@ -1,0 +1,7 @@
+# ninja log v6
+24	91	7421193073675774	CMakeFiles/CircularDoublyLinkedList.dir/main.c.obj	33695033cac7e660
+8	116	7421192937898408	CMakeFiles/CircularDoublyLinkedList.dir/CircularDoublyLinkedList.c.obj	88b0326d640fd58d
+91	167	7421193074343838	CircularDoublyLinkedList.exe	c2261e4ed6c5b2be
+20	275	7421197405241367	build.ninja	fc1b0e59680e42c5
+22	96	7421197406242700	CMakeFiles/CircularDoublyLinkedList.dir/Test_CircularDoublyLinkedList.c.obj	120ea014e3bd2ba4
+96	168	7421197406988518	CircularDoublyLinkedList.exe	333484918840446f

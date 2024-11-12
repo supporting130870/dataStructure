@@ -1,0 +1,5 @@
+# ninja log v6
+2	292	7421268749789529	build.ninja	8b9d87d30fa7e318
+80	149	7421260240667209	ArrayStack.exe	adf5d98d96ff183e
+25	98	7421255606156836	CMakeFiles/ArrayStack.dir/ArrayStack.c.obj	c81d50e3ac297ed6
+18	79	7421260240051188	CMakeFiles/ArrayStack.dir/Test_ArrayStack.c.obj	be9a8320359303fb

@@ -1,0 +1,6 @@
+# ninja log v6
+92	180	7417756204694268	signlyLinkedList.exe	336541510050e3be
+27	130	7417682517467844	CMakeFiles/signlyLinkedList.dir/main.c.obj	e547caedc6680621
+16	114	7417745482035359	CMakeFiles/signlyLinkedList.dir/LinkedList.c.obj	bac969225b7053cc
+5	232	7418572445751217	build.ninja	55d93fe30df434b1
+5	91	7417756203825543	CMakeFiles/signlyLinkedList.dir/Test_LinkedList.c.obj	d302ca0d86e20421
