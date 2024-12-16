@@ -1,0 +1,9 @@
+# ninja log v6
+2	285	7560320730967013	build.ninja	41961f089bb8ca42
+27	94	7560320732140925	CMakeFiles/LinkedQueue.dir/Test_LinkedQueue.c.obj	4fc121f3df6c14a4
+31	108	7560320732170904	CMakeFiles/LinkedQueue.dir/LinkedQueue.c.obj	968f5b62c4c266de
+108	187	7560320732943768	LinkedQueue.exe	db0d774cfc5166f5
+23	94	7560320881520129	CMakeFiles/LinkedQueue.dir/Test_LinkedQueue.c.obj	4fc121f3df6c14a4
+94	167	7560320882232983	LinkedQueue.exe	db0d774cfc5166f5
+21	84	7560321021222608	CMakeFiles/LinkedQueue.dir/Test_LinkedQueue.c.obj	4fc121f3df6c14a4
+84	155	7560321021846517	LinkedQueue.exe	db0d774cfc5166f5
